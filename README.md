@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 <h1 align="center">Hi 👋, I'm Lettieri Francesco</h1>
 <h3 align="center">I'm a passionate Full-Stack-Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/software-engineering/what-is-coding/">
+<img align="right" alt="Coding" width="400" src="https://www.magnific.com/free-photos-vectors/github-profile">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/francesco-lettierideveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francesco-lettierideveloper/" height="30" width="40" /></a>
